@@ -13,7 +13,7 @@ const Home: NextPageWithLayout = () => {
         }}
         transition={{ ease: 'easeInOut', duration: 3 }}
       >
-        <h1 className="font-mono text-6xl font-bold">Hello</h1>
+        <h1 className="font-mono text-6xl font-bold">Linhne</h1>
       </motion.div>
     </div>
   );
